@@ -1,0 +1,15 @@
+
+================================
+      SALES AUTOMATION REPORT
+================================
+
+Total Transaksi : 5
+Total Produk    : 21 unit
+Total Omzet     : Rp 10,200,000
+
+--------------------------------
+
+Produk Terlaris : Kursi Besi
+Jumlah Terjual  : 12 unit
+
+================================
